@@ -1,0 +1,125 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  overflow-x: hidden;
+}
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+  display: inline-block;
+  margin-bottom: 0;
+  color: #66BFBF;
+}
+p {
+    line-height: 2;
+    padding-bottom: 40px;
+}
+h2,h3 {
+  color: #11999E;
+}
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 1240px;
+  top: 300px;
+}
+.bottom-cloud{
+  position: absolute;
+  top: 600px;
+  left: 550px;
+}
+.profile {
+  margin: 100px auto 100px auto;
+}
+.skill-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 800px;
+}
+.images1 {
+  margin-top: 25px;
+  width: 200px;
+}
+.images2 {
+  width: 180px;
+  float: left;
+  padding-right: 20px;
+}
+.images3 {
+  width: 200px;
+  float: right;
+}
+.hr1 {
+  border: 10px dotted grey;
+  border-style: none none dotted;
+  width: 80px;
+  margin-bottom: 100px;
+}
+.hr2 {
+  border: 10px dotted grey;
+  border-style: none none dotted;
+  width: 80px;
+  margin-bottom: 100px;
+}
+.web-developer {
+  font-size: 30px;
+  margin-top: 0;
+  color: #66BFBF;
+}
+.intro {
+  width: 400px;
+  margin: auto;
+}
+.contact-me {
+  width: 30%;
+  margin: 100px auto 100px auto;
+}
+.btn {
+  border: 1px solid #66BFBF;
+  background-color: #66BFBF;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  padding:15px;
+}
+.btn:hover {
+  background-color: #D7DDE8;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 80px 0 10px;
+
+}
+.footer-link {
+  margin-top: 10px;
+  margin-right: 30px;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: white;
+}
+.bottom-container p {
+  padding-top: 50px;
+}
+.facebook {
+  width: 25px;
+  margin-right: 5px;
+}
+.twitter {
+  width: 25px;
+  margin-right: 5px;
+}
+.instagram {
+  width: 25px;
+  margin-right: 5px;
+}
+.copyright {
+  color: white;
+}
